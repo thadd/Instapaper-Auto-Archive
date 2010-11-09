@@ -11,9 +11,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -52,6 +52,6 @@
 	<key>Update Manifest URL</key>
 	<string>http://thaddeus.net/workspace/files/safari-extensions/update.plist</string>
 	<key>Website</key>
-	<string>http://thaddeus.net</string>
+	<string>https://github.com/thadd/Instapaper-Auto-Archive</string>
 </dict>
 </plist>
